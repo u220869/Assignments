@@ -5,5 +5,6 @@ Assignments for the course Programming for Economists
   * *Assignment 4*
 
 ___
-M.A.H.C.L. van Riel
-snr: *2018334*
+M.A.H.C.L. van Riel  
+**snr**: *2018334*  
+**@:** m.a.h.c.l.vanriel@tilburguniversity.edu
