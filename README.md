@@ -8,7 +8,8 @@ ___
   * [*Assignment 4*](https://github.com/u220869/Assignments/blob/master/assignment4.ipynb)
 ___
 **Rstudio**
----
+---  
+___
 M.A.H.C.L. van Riel  
 **snr :** *2018334*  
 **@ :** *m.a.h.c.l.vanriel@tilburguniversity.edu*
