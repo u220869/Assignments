@@ -10,6 +10,6 @@ ___
 **Rstudio**
 ---  
 ___
-M.A.H.C.L. van Riel  
-**snr :** *2018334*  
+**Name :** *M.A.H.C.L. van Riel*  
+**Snr :** *2018334*  
 **@ :** *m.a.h.c.l.vanriel@tilburguniversity.edu*
