@@ -9,7 +9,8 @@ ___
 ___
 **R**
 ---  
-  * [*Assignment week 6*](https://github.com/u220869/Assignments/blob/master/Assignment%20week%206.ipynb)
+  * [*Assignment week 6*](https://github.com/u220869/Assignments/blob/master/Assignment%20week%206.ipynb)  
+  * [*Assignment week 7*](https://github.com/u220869/Assignments/blob/master/Assignment%20week%207.ipynb)
 ___
 **Name :** *M.A.H.C.L. van Riel*  
 **Snr :** *2018334*  
