@@ -14,7 +14,7 @@ ___
 ___
 **Final Assignment**
 ---  
-  * [Exam June 7, 2018 (python)]()  
+  * [Exam June 7, 2018 (python)](https://github.com/u220869/Assignments/blob/master/exam_june_7_2018.ipynb)  
   * [Exam June 7, 2018 (R)]() 
 ___
 **Name :** *M.A.H.C.L. van Riel*  
