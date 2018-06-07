@@ -12,6 +12,11 @@ ___
   * [*Assignment week 6*](https://github.com/u220869/Assignments/blob/master/Assignment%20week%206.ipynb)  
   * [*Assignment week 7*](https://github.com/u220869/Assignments/blob/master/Assignment%20week%207.ipynb)
 ___
+**Final Assignment**
+---  
+  * [Exam June 7, 2018 (python)]()  
+  * [Exam June 7, 2018 (R)]() 
+___
 **Name :** *M.A.H.C.L. van Riel*  
 **Snr :** *2018334*  
 **@ :** *m.a.h.c.l.vanriel@tilburguniversity.edu*
